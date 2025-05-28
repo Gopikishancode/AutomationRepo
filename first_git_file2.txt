@@ -1,0 +1,2 @@
+Hello we are learning git operations
+Adding new file to git repository.
